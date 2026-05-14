@@ -1,0 +1,1 @@
+Sensitive data must be encrypted in transit and at rest. Access to company systems must follow role-based access control. API keys must not be stored in application code.

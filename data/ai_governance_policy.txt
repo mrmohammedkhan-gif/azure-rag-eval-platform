@@ -1,0 +1,1 @@
+The company requires all AI systems to be monitored for accuracy, hallucination risk, data privacy, and user impact. AI systems must use approved data sources and must not expose confidential customer information.
